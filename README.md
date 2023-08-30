@@ -3,6 +3,8 @@ Ein BMBF gefördertes Forschungsprojekt zur KI-Steuerung zum Schallschutz bei ur
 
 Laufzeit: 6/23 - 12/26
 
+<img src="BMBF.jpeg" width=300>
+
 ## Projektbeschreibung
 Geothermie als alternative Strom- und Wärmequelle zur Erreichung der Klimaziele. Die
 Einhaltung der international vereinbarten Klimaziele inklusive der Begrenzung der globalen
