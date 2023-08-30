@@ -1,6 +1,4 @@
-# KI-Bohrer
-Ein BMBF gefördertes Forschungsprojekt zur KI-Steuerung zum Schallschutz bei urbanen Geothermiebohrungen
-
+# Forschungsprojekt zur KI-Steuerung zum Schallschutz bei urbanen Geothermiebohrungen
 Laufzeit: 6/23 - 12/26
 
 <img src="BMBF.jpeg" width=300>
