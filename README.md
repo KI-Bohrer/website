@@ -3,7 +3,7 @@ Website des BMBF Ki-Bohrer Projekts...
 
 
 ## Partner
-
+<img src="IMLA.png" width=400>
 
 ## Kontakt
 Prof. Janis Keuper <br>
