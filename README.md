@@ -6,7 +6,7 @@ Website des BMBF Ki-Bohrer Projekts...
 
 
 ## Kontakt
-Prof. Janis Keuper
-Institute for Machine Learning and Analytics
-HS Offenburg
-*janis.keuper* -at- *hs-offenburg.de*
+Prof. Janis Keuper <br>
+Institute for Machine Learning and Analytics <br>
+HS Offenburg <br>
+*janis.keuper* -at- *hs-offenburg.de*  <br>
