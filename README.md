@@ -4,8 +4,8 @@ Laufzeit: 6/23 - 12/26
 <img src="BMBF.jpeg" width=300>
 
 ## Projektbeschreibung
-Geothermie als alternative Strom- und Wärmequelle zur Erreichung der Klimaziele. Die
-Einhaltung der international vereinbarten Klimaziele inklusive der Begrenzung der globalen
+### Geothermie als alternative Strom- und Wärmequelle zur Erreichung der Klimaziele. 
+Die Einhaltung der international vereinbarten Klimaziele inklusive der Begrenzung der globalen
 Erwärmung auf möglichst unter 1.5 Grad Celsius ist sicherlich eine der größten technischen
 und gesellschaftlichen Herausforderungen der nächsten Jahrzehnte. Ohne einen weiteren
 massiven Ausbau der CO2 neutralen Energiegewinnung werden diese Ziele nicht erreicht
