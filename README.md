@@ -52,6 +52,13 @@ erheblich erhöht werden. Beide Verbesserungen gegenüber dem Stand der Technik 
 einen wesentlichen Beitrag zum weiteren Ausbau der Geothermie und somit zur Erreichung
 der übergeordneten Klimaziele beitragen.
 
+## Publikationen
+
+### Konferenzbeiträge
+* [*M. Spitznagel, J. Keuper, Urban Sound Propagation: a Benchmark for 1-Step Generative Modeling of Complex Physical Systems, DMLR Workshop at ICRL 2024*](https://openreview.net/pdf?id=1vCAi53AVj)
+
+### Datensätze
+* [*Urban Sound Data*: www.urban-sound-data.org](https://www.urban-sound-data.org/)
 
 ## Partner:
 &nbsp;<img src="hso.png" width=150>&nbsp;&nbsp;<img src="IMLA.png" width=250><img src="hk.jpg" width=250>
