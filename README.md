@@ -58,7 +58,12 @@ der übergeordneten Klimaziele beitragen.
 * [*M. Spitznagel, J. Keuper, Urban Sound Propagation: a Benchmark for 1-Step Generative Modeling of Complex Physical Systems, DMLR Workshop at ICRL 2024*](https://openreview.net/pdf?id=1vCAi53AVj)
 
 ### Datensätze
-* [*Urban Sound Data*: www.urban-sound-data.org](https://www.urban-sound-data.org/)
+#### Urban Sound Data: 
+*This dataset is assembled for research into urban sound propagation, comprising 25,000 data points across 10 diverse cities. Each city is represented by 2,500 locations, offering a comprehensive analysis of various urban configurations. The dataset utilizes OpenStreetMap (OSM) imagery to detail the urban layout within a 500m x 500m area for each location, where buildings are delineated with black pixels and open spaces with white pixels.*
+
+<img src="https://www.urban-sound-data.org/figures/sample_overview_reduced.png">
+
+https://www.urban-sound-data.org/
 
 ## Partner:
 &nbsp;<img src="hso.png" width=150>&nbsp;&nbsp;<img src="IMLA.png" width=250><img src="hk.jpg" width=250>
