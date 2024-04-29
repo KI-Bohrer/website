@@ -55,7 +55,7 @@ der übergeordneten Klimaziele beitragen.
 ## KI-Bohrer in der Presse
 * [Schwarzwälder Bote: Künstliche Intelligenz soll Bohrungen leiser machen (28.9.23)](https://www.schwarzwaelder-bote.de/inhalt.hochschule-und-herrenknecht-forschen-kuenstliche-intelligenz-soll-bohrungen-leiser-machen.d9c38ef0-6662-44ab-8e5d-6c5a202c9303.html)
 
-* [Badische Neuste Nachrichten: Künstliche Intelligenz soll leisere Erdwärme-Bohrungen in Offenburg ermöglichen (27.9.23)[https://bnn.de/mittelbaden/ortenau/offenburg/ki-soll-leisere-erdwaerme-bohrungen-in-offenburg-ermoeglichen]
+* [Badische Neuste Nachrichten: Künstliche Intelligenz soll leisere Erdwärme-Bohrungen in Offenburg ermöglichen (27.9.23)](https://bnn.de/mittelbaden/ortenau/offenburg/ki-soll-leisere-erdwaerme-bohrungen-in-offenburg-ermoeglichen)
 
 
 ## Publikationen
