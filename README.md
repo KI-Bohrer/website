@@ -62,7 +62,7 @@ der übergeordneten Klimaziele beitragen.
 
 ### Konferenzbeiträge
 * [*M. Spitznagel, J. Keuper, Urban Sound Propagation: a Benchmark for 1-Step Generative Modeling of Complex Physical Systems, DMLR Workshop at ICRL 2024*](https://openreview.net/pdf?id=1vCAi53AVj)
-
+* [Ladwig, D., Spitznagel, M., Vaillant, J., Dorer, K., & Keuper, J. (2024, October). AI-Guided Noise Reduction for Urban Geothermal Drilling. In Proceedings of the Upper-Rhine Artificial Intelligence Symposium (pp. 85-94).](https://journals.hs-offenburg.de/index.php/urai/article/view/7)
 ### Datensätze
 #### Urban Sound Data: 
 *This dataset is assembled for research into urban sound propagation, comprising 25,000 data points across 10 diverse cities. Each city is represented by 2,500 locations, offering a comprehensive analysis of various urban configurations. The dataset utilizes OpenStreetMap (OSM) imagery to detail the urban layout within a 500m x 500m area for each location, where buildings are delineated with black pixels and open spaces with white pixels.*
