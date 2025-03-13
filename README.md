@@ -63,6 +63,8 @@ der übergeordneten Klimaziele beitragen.
 ### Konferenzbeiträge
 * [*M. Spitznagel, J. Keuper, Urban Sound Propagation: a Benchmark for 1-Step Generative Modeling of Complex Physical Systems, DMLR Workshop at ICRL 2024*](https://openreview.net/pdf?id=1vCAi53AVj)
 * [Ladwig, D., Spitznagel, M., Vaillant, J., Dorer, K., & Keuper, J. (2024, October). AI-Guided Noise Reduction for Urban Geothermal Drilling. In Proceedings of the Upper-Rhine Artificial Intelligence Symposium (pp. 85-94).](https://journals.hs-offenburg.de/index.php/urai/article/view/7)
+*[Spitznagel, M., Vaillant, J., Keuper, J., PhysicsGen: Can Generative Models Learn from Images to Predict Complex Physical Relations?, Accepted at IEEE/CVF International Conference on Computer Vision Workshops (CVPR) 2025](https://arxiv.org/abs/2503.05333)
+
 ### Datensätze
 #### Urban Sound Data: 
 *This dataset is assembled for research into urban sound propagation, comprising 25,000 data points across 10 diverse cities. Each city is represented by 2,500 locations, offering a comprehensive analysis of various urban configurations. The dataset utilizes OpenStreetMap (OSM) imagery to detail the urban layout within a 500m x 500m area for each location, where buildings are delineated with black pixels and open spaces with white pixels.*
@@ -70,6 +72,13 @@ der übergeordneten Klimaziele beitragen.
 <img src="https://www.urban-sound-data.org/figures/sample_overview_reduced.png">
 
 [https://www.urban-sound-data.org/](https://www.urban-sound-data.org/)
+
+#### PhysicsGen Benchmark
+*The image-to-image translation abilities of generative learning models have recently made significant progress in the estimation of complex (steered) mappings between image distributions. While appearance based tasks like image in-painting or style transfer have been studied at length, we propose to investigate the potential of generative models in the context of physical simulations. Providing a dataset of 300k image-pairs and baseline evaluations for three different physical simulation tasks, we propose a benchmark to investigate the following research questions: i) are generative models able to learn complex physical relations from input-output image pairs? ii) what speedups can be achieved by replacing differential equation based simulations? While baseline evaluations of different current models show the potential for high speedups (ii), these results also show strong limitations toward the physical correctness (i). This underlines the need for new methods to enforce physical correctness.*
+
+<img src="https://www.physics-gen.org/figures/teaser_vertical_3.png">
+
+[https://www.physics-gen.org/](https://www.physics-gen.org/)
 
 ## Partner:
 &nbsp;<img src="hso.png" width=150>&nbsp;&nbsp;<img src="IMLA.png" width=250><img src="hk.jpg" width=250>
