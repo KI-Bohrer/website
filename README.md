@@ -63,7 +63,8 @@ der übergeordneten Klimaziele beitragen.
 ### Konferenzbeiträge
 * [*M. Spitznagel, J. Keuper, Urban Sound Propagation: a Benchmark for 1-Step Generative Modeling of Complex Physical Systems, DMLR Workshop at ICRL 2024*](https://openreview.net/pdf?id=1vCAi53AVj)
 * [Ladwig, D., Spitznagel, M., Vaillant, J., Dorer, K., & Keuper, J. (2024, October). AI-Guided Noise Reduction for Urban Geothermal Drilling. In Proceedings of the Upper-Rhine Artificial Intelligence Symposium (pp. 85-94).](https://journals.hs-offenburg.de/index.php/urai/article/view/7)
-* [Spitznagel, M., Vaillant, J., Keuper, J., PhysicsGen: Can Generative Models Learn from Images to Predict Complex Physical Relations?, Accepted at IEEE/CVF International Conference on Computer Vision Workshops (CVPR) 2025](https://arxiv.org/abs/2503.05333)
+* [Spitznagel, M., Vaillant, J., Keuper, J., PhysicsGen: Can Generative Models Learn from Images to Predict Complex Physical Relations?, IEEE/CVF International Conference on Computer Vision (CVPR) 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Spitznagel_PhysicsGen_Can_Generative_Models_Learn_from_Images_to_Predict_Complex_CVPR_2025_paper.pdf)
+  
 
 ### Datensätze
 #### Urban Sound Data: 
