@@ -1,7 +1,7 @@
 # Forschungsprojekt zur KI-Steuerung zum Schallschutz bei urbanen Geothermiebohrungen
 Laufzeit: 6/23 - 12/26
 
-<img src="BMBF.jpeg" width=300>
+<img src="BMFTR.png" width=300>
 
 ## Projektbeschreibung
 ### Geothermie als alternative Strom- und Wärmequelle zur Erreichung der Klimaziele. 
