@@ -59,6 +59,8 @@ der übergeordneten Klimaziele beitragen.
 
 
 ## Publikationen
+### Videos 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BqYIqeCHp1M/0.jpg)](https://www.youtube.com/watch?v=BqYIqeCHp1M)
 
 ### Konferenzbeiträge
 * [*M. Spitznagel, J. Keuper, Urban Sound Propagation: a Benchmark for 1-Step Generative Modeling of Complex Physical Systems, DMLR Workshop at ICRL 2024*](https://openreview.net/pdf?id=1vCAi53AVj)
