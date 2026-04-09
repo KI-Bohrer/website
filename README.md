@@ -62,6 +62,8 @@ der übergeordneten Klimaziele beitragen.
 ### Videos 
 [![Seminar](https://img.youtube.com/vi/BqYIqeCHp1M/0.jpg)](https://www.youtube.com/watch?v=BqYIqeCHp1M)
 
+[![Demo](https://img.youtube.com/vi/Vp-fMc6uEjo/0.jpg))](https://www.youtube.com/watch?v=Vp-fMc6uEjo)
+
 ### Konferenzbeiträge
 * [*M. Spitznagel, J. Keuper, Urban Sound Propagation: a Benchmark for 1-Step Generative Modeling of Complex Physical Systems, DMLR Workshop at ICRL 2024*](https://openreview.net/pdf?id=1vCAi53AVj)
 * [Ladwig, D., Spitznagel, M., Vaillant, J., Dorer, K., & Keuper, J. (2024, October). AI-Guided Noise Reduction for Urban Geothermal Drilling. In Proceedings of the Upper-Rhine Artificial Intelligence Symposium (pp. 85-94).](https://journals.hs-offenburg.de/index.php/urai/article/view/7)
