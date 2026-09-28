@@ -1,5 +1,5 @@
 # Forschungsprojekt zur KI-Steuerung zum Schallschutz bei urbanen Geothermiebohrungen
-Laufzeit: 6/23 - 12/26
+Laufzeit: 6/23 - 06/27
 
 <img src="BMFTR.png" width=300>
 
