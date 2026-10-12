@@ -69,7 +69,7 @@ der übergeordneten Klimaziele beitragen.
 * [Spitznagel, M., Vaillant, J., Keuper, J., PhysicsGen: Can Generative Models Learn from Images to Predict Complex Physical Relations?, IEEE/CVF International Conference on Computer Vision (CVPR) 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Spitznagel_PhysicsGen_Can_Generative_Models_Learn_from_Images_to_Predict_Complex_CVPR_2025_paper.pdf)
 * [Eckerle, A., Spitznage, M., Keuper, J. Real-time Prediction of Urban Sound Propagation with Conditioned Normalizing Flows, NeurIPs 2025, UrbanAI Workshop](https://arxiv.org/pdf/2510.04510)
 * [Martin Spitznagel, Daniel Ladwig, Jan Vaillant, Klaus Dorer, Janis Keuper, BMFTR Projekt KI-Bohrer - KI-Steuerung zur Schallreduktion bei innerstädtischen Geothermie Bohrungen, Geotherm Offenburg, 2025](https://www.geotherm-offenburg.de//sites/geotherm-offenburg.de/files/media_document/2025-12/tag1_k1_15_20-uhr_375_spitznagel_ladwig.pdf)  
-
+*[Spitznagel, Martin, and Janis Keuper. "2D Spatial Reasoning with Adaptive Neural Cellular Automata." Advances in Neural Information Processing Systems (NeurIPS), 2026.](https://arxiv.org/pdf/2610.08518)
 ### Datensätze
 #### Urban Sound Data: 
 *This dataset is assembled for research into urban sound propagation, comprising 25,000 data points across 10 diverse cities. Each city is represented by 2,500 locations, offering a comprehensive analysis of various urban configurations. The dataset utilizes OpenStreetMap (OSM) imagery to detail the urban layout within a 500m x 500m area for each location, where buildings are delineated with black pixels and open spaces with white pixels.*
